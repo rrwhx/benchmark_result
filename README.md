@@ -18,6 +18,7 @@ time make -jN
 | platform  | score   | browser  | os  | comment  |
 | :------------: | :------------: | :------------: | :------------: | :------------: |
 | 12700k  | 84298  | chrome 102.0.5005.115  | ubuntu22.04 with kernel 5.15.0-33-generic  |   |
+| Loongson 3A 4000  | 8224  |  3.1.5259.1 | 90.0.4430.217 | loongnix with kernel 4.19.190  |   |
 |   |   |   |   |   |
 
 
